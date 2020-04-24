@@ -90,7 +90,7 @@ body {
   font-smoothing: antialiased;
   font-weight: 400;
   background-color: teal;
-  color: #6f6f6f;
+  color: #5ab8ab;
 }
 
 ::-moz-selection {
@@ -1637,7 +1637,7 @@ textarea {
     06 About Section
 */
 .about_thumb {
-  background-color: #fff;
+  background-color: #5ab8ab;
   border-radius: 3px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   margin-right: 20px;
@@ -1769,7 +1769,7 @@ textarea {
 }
 
 .single_service {
-  background-color: #fff;
+  background-color: #5ab8ab;
   position: relative;
   margin-bottom: 30px;
 }
@@ -1996,7 +1996,7 @@ textarea {
 }
 
 .single_work .overlay_icon > .fa {
-  background-color: #fff;
+  background-color: #5ab8ab;
   border-radius: 50%;
   color: #000;
   font-size: 15px;
@@ -2140,7 +2140,7 @@ textarea {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #f7f7f7;
+  background-color: #5ab8ab;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -2266,7 +2266,7 @@ textarea {
 }
 
 .single-fanfact {
-  color: #fff;
+  color: #5ab8ab;
   text-align: center;
   margin-top: 10px;
 }
@@ -2295,7 +2295,7 @@ textarea {
 }
 
 .single_contact_info {
-  background-color: #fff;
+  background-color: #5ab8ab;
   box-shadow: 0 0 18px rgba(69, 39, 160, 0.1);
   padding: 40px 20px 35px;
   position: relative;
@@ -2321,7 +2321,7 @@ textarea {
 }
 
 .single_contact_info > .icon:before {
-  color: #fff;
+  color: #5ab8ab;
   font-size: 22px;
   line-height: 50px;
 }
@@ -2524,7 +2524,7 @@ textarea {
     11 Site Footer
 */
 .footer {
-  background-color: #1E1E1E;
+  background-color: #5ab8ab;
 }
 
 .footer .clearfix {

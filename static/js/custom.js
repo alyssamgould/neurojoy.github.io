@@ -218,9 +218,10 @@ Copyright (c) 2018 - mital_04
             speed: 200,
             loop:true,
             strings: [
-              'Solving The Global Health Crisis',
-              'Redefining Telemedicine',
-              "Virtual Reality for Developing Countries"
+             'Spreading happiness one neuron at a time.',
+              'Moonshot Neuroscience Nanotechnology Startup',
+              'Curing Depression',
+              'Magnoelectric Nanoparticles in the Brain'
             ],
             breakLines: false
         }); 

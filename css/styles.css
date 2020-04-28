@@ -68,7 +68,7 @@ Table of contents
   height: 50px;
   border-radius: 50%;
   border: 10px solid #e8e8e8;
-  border-top: 10px solid #292929;
+  border-top: 10px solid #3d63ac;
   -webkit-animation: rotate 1.2s infinite linear;
   animation: rotate 1.2s infinite linear;
   overflow: hidden;
@@ -103,7 +103,7 @@ Table of contents
 * 02. Common
 -----------------------------------*/
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Acre Medium', acre-medium;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
   font-size: 14px;

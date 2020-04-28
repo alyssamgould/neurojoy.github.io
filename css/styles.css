@@ -2115,7 +2115,7 @@ div#particles-box {
   text-decoration: none;
 }
 .footer .footer-logo {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 700;
   color: #fff;
 }
@@ -2142,7 +2142,7 @@ div#particles-box {
   height: 40px;
   text-align: center;
   line-height: 40px;
-  color: #a5a5a5;
+  color: #fff;
 }
 
 @media(max-width: 991px){

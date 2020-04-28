@@ -108,7 +108,7 @@ body {
   font-smoothing: antialiased;
   font-size: 14px;
   line-height: 1.5;
-  color: #666666;
+  color: #3d63ac;
 }
 
 img {
@@ -205,7 +205,7 @@ img {
 }
 .section-title-01 span {
   font-size: 14px;
-  color: #444;
+  color: #3d63ac;
   font-weight: 600;
   letter-spacing: 0.75px;
 }
@@ -213,7 +213,7 @@ img {
 .section-title-01 h3 {
   font-size: 30px;
   font-weight: 700;
-  color: #222;
+  color: #3d63ac;
   margin: 10px 0 0;
   text-transform: capitalize;
   letter-spacing: 1px;
@@ -845,7 +845,7 @@ img {
   top: 0;
   margin-top: 0;
   padding: 12px 10px;
-  background: #111;
+  background: #3d63ac;
   box-shadow: 0px 1px 27px -3px rgba(0, 0, 0, 0.2);
 }
 
@@ -1256,14 +1256,14 @@ div#particles-box {
   display: inline-block;
   vertical-align: top;
   font-size: 50px;
-  color: #000;
+  color: #3d63ac;
   margin-bottom: 30px;
   background: #fff;
 }
 
 .feature-box-02 h5 {
   font-size: 16px;
-  color: #333;
+  color: #3d63ac;
   margin-bottom: 15px;
   font-weight: 700;
 }
@@ -2038,7 +2038,7 @@ div#particles-box {
 
 .contact-form h2 {
     font-size: 18px;
-    color: #292929;
+    color: #3d63ac;
     font-weight: 600;
     margin-bottom: 20px;
 }
@@ -2060,7 +2060,7 @@ div#particles-box {
 }
 .ci-row label {
     font-size: 14px;
-    color: #666;
+    color: #3d63ac;
     letter-spacing: 0.5px;
     width: 100%;
     display: inline-block;
@@ -2098,7 +2098,7 @@ div#particles-box {
 -----------------------------------------*/
 
 .footer {
-  background: #151515;
+  background: #5cc0ab;
   padding: 60px 0;
   text-align: center;
 }
